@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Tai",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        },
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Hashna",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        },
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Saw",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        },
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Ranjan",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        },
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Subash",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        },
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Arun",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        },
+        {
+            "id": "1000",
+            "Date": "14-03-2024",
+            "name": "Sunhan",
+            "description": "Product Description",
+            "price": 65,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "Expiring": "25-03-2024",
+            "email": "example@gmail.com",
+            "phone":"+60 123456789"
+        }
+    ]
+}

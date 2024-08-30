@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "B001",
+            "name": "East Branch",
+            "location": "Kuala Lumpur",
+            "rooms": "10",
+            "address": "ANRAN THERAPY SDN. BHD,SELANGOR"
+        },{
+            "id": "B002",
+            "name": "South East Branch",
+            "location": "Kuala Lumpur",
+            "rooms": "20",
+            "address": "ANRAN THERAPY SDN. BHD,SELANGOR"
+        },{
+            "id": "B003",
+            "name": "North Branch",
+            "location": "Kuala Lumpur",
+            "rooms": "20",
+            "address": "ANRAN THERAPY SDN. BHD,SELANGOR"
+        },{
+            "id": "B004",
+            "name": "A Branch",
+            "location": "Kuala Lumpur",
+            "rooms": "20",
+            "address": "ANRAN THERAPY SDN. BHD,SELANGOR"
+        },{
+            "id": "B005",
+            "name": "B2 Branch",
+            "location": "Kuala Lumpur",
+            "rooms": "20",
+            "address": "ANRAN THERAPY SDN. BHD,SELANGOR"
+        }
+    ]
+}

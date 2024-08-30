@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": 1000,
+            "name": "ADMIN"
+        },
+        {
+            "id": 1001,
+            "name": "STAFF"
+        },
+        {
+            "id": 1002,
+            "name": "USERS"
+        },
+        {
+            "id": 1003,
+            "name": "HQ"
+        }
+    ]
+}

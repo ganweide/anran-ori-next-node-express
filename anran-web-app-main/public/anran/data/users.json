@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": 1000,
+            "name": "Dharma",
+            "email": "dr@gmail.com",
+            "role": "ADMIN",
+            "status": true
+        },
+        {
+            "id": 1001,
+            "name": "Tai",
+            "email": "tai@gmail.com",
+            "role": "ADMIN",
+            "status": true
+        },
+        {
+            "id": 1002,
+            "name": "Anran",
+            "email": "anran@gmail.com",
+            "role": "STAFF",
+            "status": true
+        }
+    ]
+}
